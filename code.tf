@@ -23,5 +23,9 @@ resource "azurerm_storage_account" "meramoon"{
     location = "central india"
     account_tier = "Standard"
     account_replication_type = "LRS"
+<<<<<<< HEAD
 }
-hello from first
+hello from both
+=======
+
+>>>>>>> second
