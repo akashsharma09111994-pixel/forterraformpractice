@@ -20,7 +20,7 @@ resource "azurerm_resource_group" "moon1"{
 resource "azurerm_storage_account" "meramoon"{
     name = "merastoragehai9711172170"
     resource_group_name = "merarghai"
-    location = "west us"
+    location = "south india"
     account_tier = "Standard"
     account_replication_type = "LRS"
 }
