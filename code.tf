@@ -37,3 +37,4 @@ resource "azurerm_storage_container" "mycon" {
   container_access_type  = "private"
 
 }
+change
